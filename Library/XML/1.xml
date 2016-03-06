@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<rows>
+  <row>
+    <Autor>Mickiewicz, Adam</Autor>
+    <Tytul>Dzieła, tom I wiersze</Tytul>
+    <Rok>1949</Rok>
+    <Wydawnictwo>Czytelnik</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Mickiewicz, Adam</Autor>
+    <Tytul>Dzieła, tom II powieści poetyckie</Tytul>
+    <Rok>1949</Rok>
+    <Wydawnictwo>Czytelnik</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Mickiewicz, Adam</Autor>
+    <Tytul>Pan Tadeusz</Tytul>
+    <Rok>1984</Rok>
+    <Wydawnictwo>Książka i wiedza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Goethe, Johann </Autor>
+    <Tytul>Cierpienia młodego Wertera</Tytul>
+    <Rok>1986</Rok>
+    <Wydawnictwo>Książka i wiedza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Mickiewicz, Adam</Autor>
+    <Tytul>Sonety erotyczne</Tytul>
+    <Rok>1991</Rok>
+    <Wydawnictwo>Peon piaty</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Diderot, Denis</Autor>
+    <Tytul>Kubuś fatalista i jego pan</Tytul>
+    <Rok>1977</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Twain, Mark</Autor>
+    <Tytul>Przygody Hucka</Tytul>
+    <Rok>1974</Rok>
+    <Wydawnictwo>Iskry</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Sienkiewicz, Henryk</Autor>
+    <Tytul>Nowele amerykańskie</Tytul>
+    <Rok>1955</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Sienkiewicz, Henryk</Autor>
+    <Tytul>Stary sługa, Hania, Selim Mirza</Tytul>
+    <Rok>1962</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Sienkiewicz, Henryk</Autor>
+    <Tytul>Nowele wybrane</Tytul>
+    <Rok>1969</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Gombrowicz, Witold</Autor>
+    <Tytul>Testament</Tytul>
+    <Rok>1990</Rok>
+    <Wydawnictwo>Res Publica</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Konopnicka, Maria</Autor>
+    <Tytul>Nasza szkapa</Tytul>
+    <Rok>1971</Rok>
+    <Wydawnictwo>Czytelnik</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Fredro, Aleksander</Autor>
+    <Tytul>Zemsta</Tytul>
+    <Rok></Rok>
+    <Wydawnictwo>Ossolioneum</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Balzac, Honoriusz</Autor>
+    <Tytul>Ojciec Goriot</Tytul>
+    <Rok>1972</Rok>
+    <Wydawnictwo>Czytelnik</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Nałkowska, Zofia</Autor>
+    <Tytul>Medaliony</Tytul>
+    <Rok>1973</Rok>
+    <Wydawnictwo>Czytelnik</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Nałkowska, Zofia</Autor>
+    <Tytul>Granica</Tytul>
+    <Rok>1972</Rok>
+    <Wydawnictwo>Czytelnik</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Hemingway, Ernest</Autor>
+    <Tytul>Rzeka dwóch serc</Tytul>
+    <Rok>1973</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Hemingway, Ernest</Autor>
+    <Tytul>Stary człowiek i morze</Tytul>
+    <Rok>1973</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Krasicki, Ignacy</Autor>
+    <Tytul>Wybór bajek i satyr</Tytul>
+    <Rok>2011</Rok>
+    <Wydawnictwo>Greg</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Sofokles</Autor>
+    <Tytul>Król Edyp</Tytul>
+    <Rok>2013</Rok>
+    <Wydawnictwo>Greg</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Sofokles</Autor>
+    <Tytul>Antygona</Tytul>
+    <Rok>2011</Rok>
+    <Wydawnictwo>Greg</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Molier</Autor>
+    <Tytul>Świętoszek</Tytul>
+    <Rok>2005</Rok>
+    <Wydawnictwo>Greg</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Zabłocki, Franciszek</Autor>
+    <Tytul>Fircyk w zalotach</Tytul>
+    <Rok>1973</Rok>
+    <Wydawnictwo>Ossolineum</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Fredro, Aleksander</Autor>
+    <Tytul>Śluby Panieńskie</Tytul>
+    <Rok>1985</Rok>
+    <Wydawnictwo>Iskry</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Fredro, Aleksander</Autor>
+    <Tytul>Trzy po trzy</Tytul>
+    <Rok>1996</Rok>
+    <Wydawnictwo>Tow upowszechniania czytelnictwa</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Fredro, Aleksander</Autor>
+    <Tytul>Śluby Panieńskie</Tytul>
+    <Rok>1956</Rok>
+    <Wydawnictwo>wyd Łódzkie</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Fredro, Aleksander</Autor>
+    <Tytul>Pan Geldhab</Tytul>
+    <Rok>1945</Rok>
+    <Wydawnictwo>Przełom</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Księga życzeńi podziękowań</Tytul>
+    <Rok>2008</Rok>
+    <Wydawnictwo>Buchmann</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Księga przysłów</Tytul>
+    <Rok>2009</Rok>
+    <Wydawnictwo>Buchmann</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Poczet królów polskich wg Jana Metejki</Tytul>
+    <Rok>1971</Rok>
+    <Wydawnictwo>wyd artystyczno graficzne RSW prasa</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Krasiński, Zygmunt</Autor>
+    <Tytul>Nie-boska komedia</Tytul>
+    <Rok>1958</Rok>
+    <Wydawnictwo>Biblioteka Narodowa </Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Żylińska, Jadwiga</Autor>
+    <Tytul>Opowieść o Heraklesie</Tytul>
+    <Rok>1976</Rok>
+    <Wydawnictwo>Krajowa agencja wydawcnicza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Żylińska, Jadwiga</Autor>
+    <Tytul>Wyprawa po złote runo</Tytul>
+    <Rok>1974</Rok>
+    <Wydawnictwo>Biuro wydawniczo propagandowe</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Krakowski informator kieszonkowy</Tytul>
+    <Rok>1925</Rok>
+    <Wydawnictwo>drukarnia Grafia</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Banasiewicz, Stanisław</Autor>
+    <Tytul>Klucz do suwaka rachunkowego</Tytul>
+    <Rok>1947</Rok>
+    <Wydawnictwo>księgarnia Floriana Czecheckiego</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Parzyński, Jerzy</Autor>
+    <Tytul>Uśmiech z Temidą</Tytul>
+    <Rok>1990</Rok>
+    <Wydawnictwo>Harcerska Oficyna Wydawnicza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Piastowie - tajemnice dynastii</Tytul>
+    <Rok>2014</Rok>
+    <Wydawnictwo>FAKT</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Żabiński, A</Autor>
+    <Tytul>Najważniejsze miary, wagi, monety</Tytul>
+    <Rok>1949</Rok>
+    <Wydawnictwo>Świat i wiedza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Uczeni o Bogu</Tytul>
+    <Rok></Rok>
+    <Wydawnictwo></Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Koper, Sławomir</Autor>
+    <Tytul>Wpływowe kobiety II Rzeczypospolitej</Tytul>
+    <Rok>2011-2013</Rok>
+    <Wydawnictwo>Bellona</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Michotek, Jerzy</Autor>
+    <Tytul>Tylko we Lwowie</Tytul>
+    <Rok>1990</Rok>
+    <Wydawnictwo>Omnipress</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>pod red. Prof. Dra hab. med. Kazimierza Janickiego i dra med. Wojciecha Rewerskiego</Autor>
+    <Tytul>Medycyna naturalna</Tytul>
+    <Rok>1990</Rok>
+    <Wydawnictwo>Państwowy zakład wydawnictw lekarskich</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Górnicka, Jadwiga</Autor>
+    <Tytul>Poradnik zdrowia- apteka natury</Tytul>
+    <Rok>1994</Rok>
+    <Wydawnictwo>AWM</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Mała encyklopedia zdrowia</Tytul>
+    <Rok>1967</Rok>
+    <Wydawnictwo>PWN</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Śliwa, Janusz</Autor>
+    <Tytul>Lekarz domowy radzi</Tytul>
+    <Rok>1991</Rok>
+    <Wydawnictwo>Instytut wydawniczy związków zawodowych</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Wisłocka, Michalina</Autor>
+    <Tytul>Sztuka kochania w 20 lat później</Tytul>
+    <Rok>1988</Rok>
+    <Wydawnictwo>Iskry</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Bocheński, Józef</Autor>
+    <Tytul>100 zabobonów</Tytul>
+    <Rok>1994</Rok>
+    <Wydawnictwo>Philed</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Bocheński, Józef</Autor>
+    <Tytul>Wspomnienia</Tytul>
+    <Rok>1993</Rok>
+    <Wydawnictwo>Philed</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Bocheński, Józef</Autor>
+    <Tytul>Mądrości tego świata</Tytul>
+    <Rok>1992</Rok>
+    <Wydawnictwo>Philed</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Twardowski, Jan</Autor>
+    <Tytul>Elementarz ks. Twardowskiego </Tytul>
+    <Rok>2006</Rok>
+    <Wydawnictwo>Wydawnictwo Literackie</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Jędraszko, Czesław</Autor>
+    <Tytul>Łacina na codzień</Tytul>
+    <Rok>1977</Rok>
+    <Wydawnictwo>Nasza Księgarnia</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Ratzinger, Joseph</Autor>
+    <Tytul>Benedykt XVI - Jezus z Nazaretu - dzieciństwo</Tytul>
+    <Rok>2012</Rok>
+    <Wydawnictwo>Znak</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Pitigrilli</Autor>
+    <Tytul>18 karatów dziewictwa</Tytul>
+    <Rok>1990</Rok>
+    <Wydawnictwo>KAW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Lenkiewicz, Stefan</Autor>
+    <Tytul>Na nartach w Czarnohorze</Tytul>
+    <Rok>1990</Rok>
+    <Wydawnictwo>wyd PTTK Kraj</Wydawnictwo>
+  </row>
+  <row>
+    <Autor>Sienkiewicz, Henryk</Autor>
+    <Tytul>W pustyni i w puszczy</Tytul>
+    <Rok>1971</Rok>
+    <Wydawnictwo>PIW</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Słownik rosyjsko - polski</Tytul>
+    <Rok>1950</Rok>
+    <Wydawnictwo>Książka i wiedza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Słownik polsko - rosyjski</Tytul>
+    <Rok>1950</Rok>
+    <Wydawnictwo>Książka i wiedza</Wydawnictwo>
+  </row>
+  <row>
+    <Autor></Autor>
+    <Tytul>Słownik techniczny rosyjsko - polski</Tytul>
+    <Rok>1956</Rok>
+    <Wydawnictwo>Państwowe Wydawnictwa Techniczne</Wydawnictwo>
+  </row>
+</rows>
