@@ -17,5 +17,9 @@ namespace Library.Model
         {
             Books = new HashSet<Book>();
         }
+        public override string ToString()
+        {
+            return Number.ToString();
+        }
     }
 }

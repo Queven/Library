@@ -17,7 +17,9 @@ namespace Library.Model
             AuthorId = authorId;
             BoxId = boxId;
         }
-
+        public Book()
+        {
+        }
         public int BookId { get; set; }
         public string Title { get; set; }
         public string Publisher { get; set; }
