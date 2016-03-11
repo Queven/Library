@@ -67,6 +67,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Dao\AuthorDao.cs" />
+    <Compile Include="Dao\EntityDao.cs" />
+    <Compile Include="Dao\IDao.cs" />
+    <Compile Include="Dao\ContextManager.cs" />
     <Compile Include="ImportDb\BoxXml.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
