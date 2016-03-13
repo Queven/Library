@@ -3,23 +3,30 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         xmlns:local="clr-namespace:Library"
         mc:Ignorable="d" Loaded="Window_Loaded"
         Title="Biblioteka" Height="800" Width="1200">
-    <Grid>
-        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Height="600" Width="1000" ItemsSource="{Binding}" AutoGenerateColumns="False" PreviewKeyDown="dataGrid_KeyDown" RowEditEnding="dataGrid_RowEditEnding" AddingNewItem="dataGrid_AddingNewItem" BeginningEdit="dataGrid_BeginningEdit">
+    <xctk:BusyIndicator Name="BusyIndicator" >
+        <Grid>
+       
+           
+       
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Height="600" Width="1000" ItemsSource="{Binding}" AutoGenerateColumns="False"  PreviewKeyDown="dataGrid_KeyDown" RowEditEnding="dataGrid_RowEditEnding" AddingNewItem="dataGrid_AddingNewItem" BeginningEdit="dataGrid_BeginningEdit">
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding BookId, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="60" Header="BookID" IsReadOnly="True" />
                 <DataGridTextColumn Binding="{Binding Title, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="150" Header="Tytuł"/>
-                <DataGridTextColumn Binding="{Binding Author.FirstName, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="150" Header="Imie"/>
-                <DataGridTextColumn Binding="{Binding Author.LastName, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="150" Header="Nazwisko"/>
-                <DataGridTextColumn Binding="{Binding Author.FullName, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="200" Header="Full Name"/>
+                <DataGridTextColumn Binding="{Binding Author.FirstName, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"  x:Name="FirstName" Width="150" Header="Imie"/>
+                <DataGridTextColumn Binding="{Binding Author.LastName, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"  x:Name="LastName" Width="150" Header="Nazwisko"/>
+                <DataGridTextColumn Binding="{Binding Author.FullName, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"  x:Name="FullName"   Width="200" Header="Full Name"/>
                 <DataGridTextColumn Binding="{Binding Year, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="50" Header="Rok"/>
                 <DataGridTextColumn Binding="{Binding Publisher, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="100" Header="Wydawnictwo"/>
                 <!--<DataGridTextColumn Binding="{Binding BoxId, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="50" Header="Box"/>-->
                 <DataGridComboBoxColumn Header="Box" x:Name="BoxCombo" SelectedValueBinding="{Binding BoxId, NotifyOnTargetUpdated=True,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="Number" SelectedValuePath="BoxId" />
             </DataGrid.Columns>
         </DataGrid>
+        <Button x:Name="AddBox" Content="Dodaj nowe pudełko" HorizontalAlignment="Left" Margin="1047,680,0,0" VerticalAlignment="Top" Width="135" Click="AddBox_Click"/>
 
     </Grid>
+    </xctk:BusyIndicator>
 </Window>
